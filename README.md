@@ -12,6 +12,6 @@ python main.py --input path\to\your\image --output path\to\output\directory
 
 Example 
 ```bash
-python main.py --input sample\umbrella.png --output output
+python main.py --input sample\church.png --output output
 ```
-![Alt text](https://github.com/TamTamTamdzdzdz/weighted_baseline/blob/main/output/umbrella_explained.png)
+![Alt text](https://github.com/TamTamTamdzdzdz/weighted_baseline/blob/main/output/church_explained.png)
